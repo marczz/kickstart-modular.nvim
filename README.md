@@ -1,5 +1,8 @@
 # kickstart-modular.nvim
 
+This repository is my personal fork of [dam9000/kickstart-modular.nvim](https://github.com/dam9000/kickstart-modular.nvim)
+if you landed here you should head up to the master repository, I am not a neovim, nor a lua expert; my main development environment is emacs, so there is nothing of interest here.
+
 ## Introduction
 
 *This is a fork of [nvim-lua/kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim) that moves from a single file to a multi file configuration.*
